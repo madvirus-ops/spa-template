@@ -1,4 +1,4 @@
-# Plantex-website
+#<!--- Plantex-website
 A modern and responsive website for Plantex, a plant agency.
 
 ### Supports both light and dark mode ###
@@ -6,10 +6,11 @@ A modern and responsive website for Plantex, a plant agency.
 ## Welcome! 👋
 
 ### Demo ### 
-[timokonkwo.com/Plantex](https://timokonkwo.com/Plantex)
+#[timokonkwo.com/Plantex](https://timokonkwo.com/Plantex)
 
 # Design
 ![Mobile design preview for wwww.timokonkwo.com/Plantex](./assets/design/mobile1.png)
 ![Mobile design preview for wwww.timokonkwo.com/Plantex](./assets/design/mobile2.png)
 ![Mobile design preview for wwww.timokonkwo.com/Plantex](./assets/design/mobile3.png)
 ![Mobile design preview for wwww.timokonkwo.com/Plantex](./assets/design/mobile4.png)
+-->
